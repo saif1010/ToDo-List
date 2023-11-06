@@ -1,0 +1,23 @@
+/* Task.js */
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+  
+  button {
+    background-color: #FF5733;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #D64322;
+  }
+  
